@@ -1,4 +1,4 @@
-# <Sri Sai Sathvik Pantangi> - Aspiring Data Scientist
+# Sri Sai Sathvik Pantangi - Aspiring Data Scientist
 Hi there! 👋 I'm Sri Sai Sathvik Pantangi, a passionate data scientist with expertise in Python, data analysis, MySQL, Power BI, machine learning, and deep learning. I love working on challenging problems and leveraging data-driven insights to make informed decisions.
 
 ## 🔧 Skills
